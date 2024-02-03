@@ -1,0 +1,3 @@
+Website van provincie slecht beveiligd
+
+Een website van de provincie Noord-Holland bleek tot vandaag zeer slecht beveiligd, meldt het tv-programma EenVandaag. Het systeem, dat ambtenaren online toegang geeft tot documenten en agenda's, was standaard beveiligd met het wachtwoord "welkom", dat gebruikers dan zelf moesten veranderen. Naar verluidt hadden de meeste amtenaren dat niet gedaan, zodat iedereen gegevens kon zien en veranderen. Kamerlid en PVV-Statenlid Hero Brinkman ontdekte de fout bij toeval. De provincie Noord-Holland heeft het systeem inmiddels offline gehaald. Volgens de provincie worden op de website alleen documenten geplaatst die toch al openbaar zijn. Ook andere provincies en de landelijke overheid maken gebruik van het systeem.
